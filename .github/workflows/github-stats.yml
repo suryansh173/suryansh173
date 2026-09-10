@@ -1,30 +1,14 @@
-name: Generate GitHub Stats SVGs
+name: Generate contribution snake
 
 on:
   schedule:
-    # Runs every 12 hours (00:00 and 12:00 UTC). Adjust as you like.
     - cron: "0 */12 * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  workflow_dispatch: {}
   push:
     branches:
       - main
 
 jobs:
-  generate-stats:
-    name: Generate stats images
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate stats
-        uses: jstrieb/github-stats@master
-        with:
-          username: suryansh173
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          exclude_repos: ""
-          exclude_langs: "HTML,CSS"
-          # Generates two files in the repo root: generated/overview.svg and generated/languages.svg
-
   generate-snake:
     name: Generate contribution snake
     runs-on: ubuntu-latest
