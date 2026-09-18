@@ -95,8 +95,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[RAG-Based Document Query System](https://github.com/suryansh173)** | End-to-end RAG pipeline built from scratch (no LangChain) — PyMuPDF, ChromaDB, Groq-hosted LLaMA 3.1, deployed on AWS EC2 + React/Vercel | Python, FastAPI, ChromaDB, AWS |
-| **[BERT Sentiment Analysis Web App](https://huggingface.co/suryansh173)** | Fine-tuned BERT on 1.6M tweets (Sentiment140), >85% accuracy, deployed on Hugging Face Hub with Streamlit UI | PyTorch, Transformers, Streamlit |
+| **[RAG-Based Document Query System]([https://github.com/suryansh173](https://pdf-rag-navy.vercel.app/))** | End-to-end RAG pipeline built from scratch (no LangChain) — PyMuPDF, ChromaDB, Groq-hosted LLaMA 3.1, deployed on AWS EC2 + React/Vercel | Python, FastAPI, ChromaDB, AWS |
+| **[BERT Sentiment Analysis Web App]([https://huggingface.co/suryansh173](https://huggingface.co/spaces/suryansh173/bert-sentiment-app))** | Fine-tuned BERT on 1.6M tweets (Sentiment140), >85% accuracy, deployed on Hugging Face Hub with Streamlit UI | PyTorch, Transformers, Streamlit |
 | **GPT-Style Transformer for Story Generation** | GPT-style transformer built from scratch in PyTorch, trained on TinyStories (~2.1M stories), ~30% faster training via mixed precision | PyTorch, tiktoken, NumPy |
 
 ---
