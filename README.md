@@ -102,5 +102,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryansh173&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=suryansh173&style=flat-square&color=blue&v=1" alt="Profile views" />
 </p>
