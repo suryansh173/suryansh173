@@ -76,7 +76,7 @@
 
 ### 🏅 Achievements
 
-<p align="center"> <a href="https://leetcode.com/u/suryansh173/"> <img src="assets/leetcode-50-days.png" alt="LeetCode 50 Days Badge" height="150" /> </a> </p>
+<p align="center"> <a href="https://leetcode.com/u/suryansh173/"> <img src="assets/leetcode-50-days.png" alt="LeetCode 50 Days Badge" height="500" /> </a> </p>
 
 ### 📊 GitHub Stats
 
