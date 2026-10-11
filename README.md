@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh173&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh173&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
